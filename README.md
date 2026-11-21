@@ -8,6 +8,7 @@ This repository is an index of its 76 problems, each with a short summary and a 
 
 - [Estimation cheat sheet](cheat-sheet.md): seconds in a day, sizes, latencies and the formulas
 - [Capacity calculator](https://shardhappens.dev/tools/capacity-calculator/)
+- [Interview drill](https://shardhappens.dev/tools/interview-drill/): the interviewer's follow-up questions for every problem, one at a time
 - [Gathering Requirements](https://shardhappens.dev/guides/requirements/): The first five minutes decide what gets designed. Ask the few questions whose answers change the design, write the answers down and move on.
 - [Back-of-the-Envelope Estimation](https://shardhappens.dev/guides/estimation/): Quick arithmetic tells you which kind of system you are building. Aim for the right order of magnitude in two minutes rather than a precise figure.
 - [Calculating Load](https://shardhappens.dev/guides/load/): Guide 2 gives an average and a peak. This guide turns them into what the system must actually survive: load per API, load on the database, the shape of traffic over time, and spikes.
