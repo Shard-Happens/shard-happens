@@ -2,7 +2,7 @@
 
 [Shard Happens](https://shardhappens.dev/) explains system design interview problems from the interviewer's side of the table: what is being looked for, and the red flags that cost marks.
 
-This repository is an index of its 76 problems, each with a short summary and a link to its page. 13 of them are free to read in full, and their summaries carry the design diagram and the red and green flags.
+This repository is an index of its 79 problems, each with a short summary and a link to its page. 15 of them are free to read in full, and their summaries carry the design diagram and the red and green flags.
 
 ## Start here
 
@@ -66,7 +66,7 @@ Each problem has a score out of 10 and a level. "Free account" and "Premium" pag
 | 72 | [Game Matchmaking](problems/game-matchmaking.md) | 6/10 |  | Premium | [Read](https://shardhappens.dev/problems/game-matchmaking/) |
 | 73 | [Design a Deployment System](problems/deployment-controller.md) | 5/10 |  | Premium | [Read](https://shardhappens.dev/problems/deployment-controller/) |
 
-### Hard (36)
+### Hard (39)
 
 | # | Problem | Score | AI | Access | Full page |
 |---|---|---|---|---|---|
@@ -106,6 +106,9 @@ Each problem has a score out of 10 and a level. "Free account" and "Premium" pag
 | 74 | [Payment Fraud Detection](problems/payment-fraud-detection.md) | 7/10 | AI | Free account | [Read](https://shardhappens.dev/problems/payment-fraud-detection/) |
 | 75 | [Ad Click Prediction System](problems/ad-click-prediction.md) | 7/10 | AI | Premium | [Read](https://shardhappens.dev/problems/ad-click-prediction/) |
 | 76 | [Real-Time Voice Agent](problems/voice-agent.md) | 7/10 | AI | Free | [Read](https://shardhappens.dev/problems/voice-agent/) |
+| 77 | [Song Recognition](problems/song-recognition.md) | 7/10 |  | Free | [Read](https://shardhappens.dev/problems/song-recognition/) |
+| 78 | [Text-to-Image Generation Service](problems/image-generation.md) | 7/10 | AI | Premium | [Read](https://shardhappens.dev/problems/image-generation/) |
+| 79 | [Live Broadcast Service](problems/live-broadcast.md) | 7/10 |  | Free | [Read](https://shardhappens.dev/problems/live-broadcast/) |
 
 ### Expert (2)
 
